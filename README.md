@@ -10,5 +10,5 @@ A project created as part of an engineering thesis. The created application incl
 
 •Needs renewal sites
 
-[![WaveShooter](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FFA60tTk3RYY)](https://youtu.be/FA60tTk3RYY)
+[![AISystem](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FOfleHfYicS0)](https://youtu.be/OfleHfYicS0)
   
